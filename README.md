@@ -23,6 +23,3 @@ When designing software, I identify what the program must accomplish, breaking t
 methods, and then determining how the components should interact. I also consider testing during the design process rather 
 than waiting until development is finished. This approach makes the software easier to understand, maintain, and verify 
 against the user's requirements.
-
-
-fkkdkfrireij 
